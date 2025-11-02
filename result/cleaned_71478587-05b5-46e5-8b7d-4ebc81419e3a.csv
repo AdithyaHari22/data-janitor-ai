@@ -1,0 +1,31 @@
+id,name,age,city,signup_date,revenue,email,notes
+1058,George,—,Denver,28-Jan-2024,291,george931@data.io,"vip, follow-up"
+1041,Evan,38,Austin,01-Feb-2024,-55,evan277@data.io,"check ""consent"" form"
+1005,Evan,25,New York,2024-01-31,512,evan68@sample.org,"check ""consent"" form"
+1051,Alice,38,Miami,01/15/2024,-55,alice556@mail.test,"vip, follow-up"
+1019,Ivan,51,San Francisco,2024-03-24,234,alice477@sample.org,"check ""consent"" form"
+1045,Ivan,16,Miami,2024-01-27,319,ivan750 at invalid-domain,"check ""consent"" form"
+1035,Julia,unknown,Miami,05/23/2024,1418,julia662@example.com,"new
+line included"
+1041,Tina,—,Austin,not-a-date,578,tina668@sample.org,"vip, follow-up"
+1035,Quinn,38,Boston,02/02/2024,636,quinn289@sample.org,"new
+line included"
+1021,Liam,38,Boston,2024-08-28,832,alice477@sample.org,"check ""consent"" form"
+1077,Pete,32,Boston,2024-08-16,1240,pete734 at mail.test,"vip, follow-up"
+1057,Quinn,38,Austin,11-Jul-2024,827,quinn93@mail.test,"vip, follow-up"
+1062,Charlie,38,Chicago,2024-05-19,783,charlie92 at example.com,"check ""consent"" form"
+1053,Sam,38,Miami,2024-07-03,860,sam820@data.io,"check ""consent"" form"
+1022,Liam,42,Seattle,2024/13/40,1457,liam970@mail.test,"check ""consent"" form"
+1054,Quinn,21,Austin,01/01/2024,283,quinn690@mail.test,"check ""consent"" form"
+1048,Charlie,31,Miami,2024-03-28,951,alice477@sample.org,ok
+1002,Alice,28,Chicago,04/08/2024,888,alice477@sample.org,"new
+line included"
+1070,Hannah,42,Denver,01-Jun-2024,519,hannah207 at mail.test,"new
+line included"
+1078,Olivia,39,Miami,13-Mar-2024,890,alice477@sample.org,ok
+1015,Diana,38,San Francisco,05/02/2024,1373,alice477@sample.org,"new
+line included"
+1055,Quinn,38,San Francisco,06/17/2024,628,quinn89@example.com,"check ""consent"" form"
+1016,Pete,38,Miami,2024-04-13,1457,alice477@sample.org,"check ""consent"" form"
+1049,Bob,17,New York,2024-03-26,571,bob491@data.io,ok
+1042,Karl,unknown,Boston,13-Jan-2024,597,karl426@sample.org,"check ""consent"" form"
